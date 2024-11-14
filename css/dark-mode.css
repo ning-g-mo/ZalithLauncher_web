@@ -1,0 +1,13 @@
+[data-theme="dark"] {
+    --text-color: #E2E8F0;
+    --bg-color: #1A202C;
+    --navbar-bg: rgba(26, 32, 44, 0.95);
+}
+
+[data-theme="dark"] .navbar {
+    background-color: var(--navbar-bg);
+}
+
+[data-theme="dark"] .feature-card {
+    background-color: #2D3748;
+} 
